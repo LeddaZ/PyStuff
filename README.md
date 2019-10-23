@@ -1,3 +1,2 @@
 # PyTest
- Python test. Requires Python 3.7.6+.
- 
+ Python test. Requires Python 3.7.4+.
