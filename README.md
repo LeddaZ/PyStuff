@@ -1,2 +1,2 @@
-# PyTest
- Python test. Requires Python 3.7.4+.
+# PyStuff
+Python experiments.
